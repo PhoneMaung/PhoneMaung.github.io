@@ -1,6 +1,6 @@
 {
-  "short_name": "blog-react",
-  "name": "Blog React",
+  "short_name": "todolist",
+  "name": "Todo List",
   "icons": [
     {
       "src": "vite.svg",
